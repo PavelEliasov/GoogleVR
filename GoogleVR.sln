@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleVR.CSharp", "GoogleVR.CSharp.csproj", "{585E5205-163C-E5D7-3C35-3CAB7DA21183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleVR.CSharp.Editor", "GoogleVR.CSharp.Editor.csproj", "{69D5F344-76A6-20BE-46DF-8A27B8B0A51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585E5205-163C-E5D7-3C35-3CAB7DA21183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585E5205-163C-E5D7-3C35-3CAB7DA21183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585E5205-163C-E5D7-3C35-3CAB7DA21183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585E5205-163C-E5D7-3C35-3CAB7DA21183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D5F344-76A6-20BE-46DF-8A27B8B0A51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D5F344-76A6-20BE-46DF-8A27B8B0A51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D5F344-76A6-20BE-46DF-8A27B8B0A51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D5F344-76A6-20BE-46DF-8A27B8B0A51C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
